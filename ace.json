@@ -1,0 +1,5 @@
+{ "type" : "library" ,
+  "target" : "org.stdplus.posix" ,
+  "name" : "org.stdplus.posix",
+  "lflags" : [],
+  "header-only" : false }
